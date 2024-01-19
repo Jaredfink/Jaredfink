@@ -1,5 +1,4 @@
-### Hi there 👋
-
+1st Year PhD candidate in biomedical engineering
 <!--
 **Jaredfink/Jaredfink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
